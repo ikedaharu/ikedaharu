@@ -13,3 +13,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,vscode,unity" />
 </p>
+
+## 🎨 Other Tools
+- 🎬 Adobe Premiere Pro
+- ✨ Adobe After Effects
+- 💬 Discord Bot Development
