@@ -10,4 +10,6 @@
 - youtube鯖ごとのトレンド集計webアプリ : 個人制作
 
 ## 
-<img alt="language" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,python,cs,php,graphql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,vscode,unity" />
+</p>
