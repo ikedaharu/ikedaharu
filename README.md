@@ -5,6 +5,6 @@
 
 ## したこと
 ### 作成したもの
-- FUGU サークル紹介PV 動画作成  
+- 山口VRサークルFUGUの [サークル紹介PV](https://www.youtube.com/watch?v=aIyh6qhdbw8) 動画作成  
 
 - youtube動画リスト  
