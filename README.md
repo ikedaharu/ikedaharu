@@ -16,6 +16,8 @@
 </p>
 
 ## 🎨 Other Tools
+- 🎨 Clip Stdio
+- 🎬 Dvinch resolve
 - 🎬 Adobe Premiere Pro
 - ✨ Adobe After Effects
 - 💬 Discord Bot Development
