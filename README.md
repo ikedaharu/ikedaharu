@@ -15,7 +15,7 @@
 
 ## 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=python,Latef,js,html,css,linux,vscode,unity" />
 </p>
 
 ## 🎨 Other Tools
